@@ -1,14 +1,5 @@
 # Terminal Cheatsheet for Mac (Basics)
 
-- [Version en Español](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/espanol)
-- [Versão em Portuguêse](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/portugues)
-- [Türkçe Versiyon](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/turkish)
-- [Türkçe Versiyon](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/turkish)
-- [Phiên bản tiếng việt](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/tieng-viet)
-
-------------
-
-_Letters are shown capitalized for readability only._  _Capslock should be off._
 ## SHORTCUTS
 
 | Key/Command | Description |
@@ -138,3 +129,5 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | man [command] |  Show the help manual for [command] |
 | whatis [command] | Gives a one-line description of [command] |
 | apropos [search-pattern] | Searches for command with keywords in description |
+
+
